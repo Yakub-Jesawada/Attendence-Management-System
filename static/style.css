@@ -1,0 +1,23 @@
+.jumbotron {
+    background-color: #477bff;
+    color: #fff;
+    margin-bottom: 2rem;
+    padding: 2rem 1rem;
+    text-align: center;
+}
+
+.main-container{
+    background-color: white;
+    color: #000;
+    margin-bottom: 2rem;
+    padding: 2rem 1rem;
+    text-align: center;
+}
+
+.container{
+    background-color: white;
+    color: #000;
+    margin-bottom: 2rem;
+    padding: 2rem 1rem;
+}
+
